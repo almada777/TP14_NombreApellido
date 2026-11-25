@@ -1,0 +1,34 @@
+body {
+    font-family: arial, sans-serif;
+    border-color: aqua;
+    color:azure;
+    margin: 30px;
+}
+div {
+    max-width: 800px;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    color: rgb(153, 136, 116);
+}
+p { 
+  text-align: center;
+  font-size: 18px;
+}
+ul {
+    padding: 0%;
+    list-style-position: inside;
+}
+li{
+    background-color: rgb(27, 28, 36);
+    width: 80%;
+    margin: 10px auto;
+    padding: 15%;
+    border-radius: 8px;
+    border:aliceblue;
+    text-align: center;
+}
+li:hover {
+    background-color: bisque;
+}
